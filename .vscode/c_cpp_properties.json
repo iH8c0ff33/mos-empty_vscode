@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "mgos",
+            "includePath": [
+                "/Users/daniele/Documents/work/mos/mongoose-os"
+            ],
+            "defines": [],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path": [
+                    "/Users/daniele/Documents/work/mos/mongoose-os"
+                ]
+            }
+        }
+    ]
+}
